@@ -10,6 +10,8 @@
 *~
 *.sass-cache
 node_modules/
+app/.idea/
+.idea/
 .tmp/
 
 # OS or Editor folders
